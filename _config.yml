@@ -34,20 +34,15 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: drgona
+  # linkedin: drgona
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  KU Leuven website: https://www.kuleuven.be/wieiswie/en/person/00107194
+  # KU Leuven website: https://www.kuleuven.be/wieiswie/en/person/00107194
   # youtube: your_username
-
-Research projects:
-  - name: Geotech H2020
-    web_url: http://www.geotech-project.eu/
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
 
 topics:
@@ -57,6 +52,3 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
