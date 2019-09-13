@@ -31,6 +31,7 @@ projects:
     projects:
       - blog-test
       - drgona.github.io
+      - HH_MPC_public
     # - repo-name
 
 social_media:
