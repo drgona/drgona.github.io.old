@@ -85,7 +85,7 @@ author:
   bio              : "post-doctoral researcher at Pacific Northwest National Laboratory"
   location         : "Richland, WA, USA"
   employer         : "Pacific Northwest National Laboratory"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
   email            : "jan.drgona@pnnl.gov"
   researchgate     :  "https://www.researchgate.net/profile/Jan_Drgona" # example: "https://www.researchgate.net/profile/yourprofile"
