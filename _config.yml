@@ -29,18 +29,19 @@ projects:
   exclude:
     forks: true
     projects:
+      - blog-test
     # - repo-name
 
 social_media:
    facebook: jan.drgona.3
    linkedin: drgona
   # KU Leuven: https://www.kuleuven.be/wieiswie/en/person/00107194
-  # medium: your_username
   # stackoverflow: your_user_id
-  # twitter: your_username
+   twitter: jan_drgona
+   googlescholar    : "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
   # unsplash: your_username
   # vk: your_username
-   
+
 
 
 
@@ -48,5 +49,3 @@ topics:
   - name: optimal control of energy systems
     web_url: https://www.sciencedirect.com/science/article/pii/S0306261918302903
     image_url: https://github.com/drgona/BeSim/blob/master/Data/Page/BeSim_structure2.png
-
-
