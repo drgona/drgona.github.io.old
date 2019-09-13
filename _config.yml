@@ -270,8 +270,8 @@ plugins:
 #remote_theme           : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # mimic GitHub Pages with --safe
 whitelist:
