@@ -44,5 +44,5 @@ social_media:
   # vk: your_username
 
 topics:
-  - name: optimal control of energy systems
+  - name: Approximate model predictive building control via machine learning
     web_url: https://www.sciencedirect.com/science/article/pii/S0306261918302903
