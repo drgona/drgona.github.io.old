@@ -81,16 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Ján Drgoňa"
-  avatar           : "profile.png"
+  avatar           : "Jan_Drgona_profile.png"
   bio              : "post-doctoral researcher at Pacific Northwest National Laboratory"
   location         : "Richland, WA, USA"
   employer         : "Pacific Northwest National Laboratory"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
   email            : "jan.drgona@pnnl.gov"
   researchgate     :  "https://www.researchgate.net/profile/Jan_Drgona" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "https://bitbucket.org/%7B96405cec-dcb4-4f6f-8df3-45f6cf31b0f6%7D/"
+  bitbucket        : "Drgona"
   codepen          :
   dribbble         :
   flickr           :
