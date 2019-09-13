@@ -21,15 +21,16 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
-  # sort_by options:
+  sort_by: stars
+  #sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 6
   exclude:
     forks: true
     projects:
       - blog-test
+      - drgona.github.io
     # - repo-name
 
 social_media:
@@ -38,11 +39,9 @@ social_media:
   # KU Leuven: https://www.kuleuven.be/wieiswie/en/person/00107194
   # stackoverflow: your_user_id
    twitter: jan_drgona
-   googlescholar    : "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
+   googlescholar: "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
   # unsplash: your_username
   # vk: your_username
-
-
 
 
 topics:
