@@ -37,13 +37,11 @@ projects:
 social_media:
    facebook: jan.drgona.3
    linkedin: drgona
-  # KU Leuven: https://www.kuleuven.be/wieiswie/en/person/00107194
   # stackoverflow: your_user_id
    twitter: jan_drgona
    googlescholar: "https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao"
   # unsplash: your_username
   # vk: your_username
-
 
 topics:
   - name: optimal control of energy systems
