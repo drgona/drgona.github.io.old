@@ -26,12 +26,12 @@ Professional experience
   * Supervisor: [Draguna Vrabie](https://www.kuleuven.be/wieiswie/en/person/00009689)
   * July 2019 - ongoing
 
-  * Postdoctoral Researcher
-    * Department of Mechanical Engineering, Division of Applied Mechanics and Energy Conversion, KU Leuven, Belgium
-    * Topic: Model Predictive Control of Buildings with Geothermal Ground Source Heat Pump Systems
-    * Projects: H2020 GEOTECH, IBPSA Project 1
-    * Supervisor: [Lieve Helsen](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900)
-    * September 2017 - April 2019
+* Postdoctoral Researcher
+  * Department of Mechanical Engineering,  KU Leuven, Belgium
+  * Topic: Model Predictive Control of Buildings with Geothermal Ground Source Heat Pump Systems
+  * Projects: H2020 GEOTECH, IBPSA Project 1
+  * Supervisor: [Lieve Helsen](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900)
+  * September 2017 - April 2019
 
 
 Publications
