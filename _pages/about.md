@@ -11,8 +11,9 @@ redirect_from:
 I am a post-doctoral researcher the [Optimization and Control Group](https://eib.pnnl.gov/optimizationcontrol/default.asp) at Pacific Northwest National laboratory located in Richland WA.
 My current research interests fall in the intersection of model-based optimal control and machine learning with applications in the energy sector, building control in particular.
 
-I have a PhD in Control Engineering from  [Slovak University of Technology in Bratislava](https://www.uiam.sk/index.php), Slovakia, advised by [Michal Kvasnica](https://www.uiam.sk/~kvasnica/). My MSc thesis was co-supervised by [Johan Löfberg](http://users.isy.liu.se/en/rt/johanl/) with the topic [Efficient Modeling of Hybrid Systems](https://www.uiam.sk/assets/fileAccess.php?id=1305&type=1).
+I have a PhD in Control Engineering from  [Slovak University of Technology in Bratislava](https://www.uiam.sk/index.php), Slovakia, advised by [Michal Kvasnica](https://www.uiam.sk/~kvasnica/).
 My PhD thesis was on [Model Predictive Control with Applications in Building Thermal Comfort Control](https://www.researchgate.net/publication/323219837_Model_Predictive_Control_with_Applications_in_Building_Thermal_Comfort_Control).
+My MSc thesis was co-supervised by [Johan Löfberg](http://users.isy.liu.se/en/rt/johanl/) with the topic [Efficient Modeling of Hybrid Systems](https://www.uiam.sk/assets/fileAccess.php?id=1305&type=1).
 Before joining PNNL I was a postdoc  at KU Leuven, Belgium, in the [Thermal Systems Simulation research group](https://www.mech.kuleuven.be/en/tme/research/thermal_systems) led by [Lieve Helsen](https://www.kuleuven.be/wieiswie/en/person/00009689).
 At KU Leuven I was working on the cloud-based implementation of model predictive control (MPC) in a real-world  office building in Belgium.
 My publications are available  on [Google Scholar](https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Jan_Drgona) and my
