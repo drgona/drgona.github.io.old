@@ -1,9 +1,10 @@
 ---
-title: "State estimation of control-oriented white-box models for buildings"
+title: "Models and Uncertainty in Model Predictive Building Control
+"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-09-09-StateEstim
-venue: "ntelligent Building Operations Workshop"
+venue: "Intelligent Building Operations Workshop"
 date: 2019-09-09
 location: "Univeristy of Colorado Boulder, CO , USA"
 ---
