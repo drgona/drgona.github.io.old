@@ -1,5 +1,5 @@
 ---
-title: "State estimation of control-oriented white-box models for buildings"
+title: "Models and Uncertainty in Model Predictive Building Control"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2018-11-28-Uncertainty
