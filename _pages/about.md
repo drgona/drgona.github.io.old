@@ -17,4 +17,4 @@ My MSc thesis was co-supervised by [Johan Löfberg](http://users.isy.liu.se/en/r
 Before joining PNNL I was a postdoc  at KU Leuven, Belgium, in the [Thermal Systems Simulation research group](https://www.mech.kuleuven.be/en/tme/research/thermal_systems) led by [Lieve Helsen](https://www.kuleuven.be/wieiswie/en/person/00009689).
 At KU Leuven I was working on the cloud-based implementation of model predictive control (MPC) in a real-world  office building in Belgium.
 My publications are available  on [Google Scholar](https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Jan_Drgona) and my
-open source repositories can be found on my [Github](https://github.com/drgona) or [Bitbucket](https://bitbucket.org/%7B96405cec-dcb4-4f6f-8df3-45f6cf31b0f6%7D/) profiles.
+open source repositories can be found on my [Github](https://github.com/drgona) and [Bitbucket](https://bitbucket.org/%7B96405cec-dcb4-4f6f-8df3-45f6cf31b0f6%7D/) profiles.
