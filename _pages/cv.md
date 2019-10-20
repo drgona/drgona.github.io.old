@@ -23,7 +23,7 @@ Professional experience
   * Optimization and Control Group, Pacific Northwest National laboratory, Richland, WA, USA
   * Topic: Deep Learning-based Model Predictive Control
   * Projects: Adaptive Controls
-  * Supervisor: [Draguna Vrabie](https://www.kuleuven.be/wieiswie/en/person/00009689)
+  * Supervisor: [Draguna Vrabie](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900)
   * July 2019 - ongoing
 
 * Postdoctoral Researcher
