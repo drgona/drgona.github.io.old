@@ -26,13 +26,13 @@ Professional experience
   * Supervisor: [Lieve Helsen](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900)
   * September 2017 - April 2019
 
-  Education
-  ======
-  * Ph.D in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2017
-    * Thesis: [Model Predictive Control with Applications in Building Thermal Comfort Control](https://www.researchgate.net/publication/323219837_Model_Predictive_Control_with_Applications_in_Building_Thermal_Comfort_Control)
-    * Supervisor: [Michal Kvasnica](https://www.uiam.sk/~kvasnica/)
-    * M.S. in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2012
-    * B.S. in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2010
+Education
+======
+* Ph.D in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2017
+  * Thesis: [Model Predictive Control with Applications in Building Thermal Comfort Control](https://www.researchgate.net/publication/323219837_Model_Predictive_Control_with_Applications_in_Building_Thermal_Comfort_Control)
+  * Supervisor: [Michal Kvasnica](https://www.uiam.sk/~kvasnica/)
+  * M.S. in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2012
+  * B.S. in Control Engineering, Slovak University of Technology in Bratislava, Slovakia, 2010
 
 Publications
 ======
