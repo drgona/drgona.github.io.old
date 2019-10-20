@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher the [Optimization and Control Group](https://eib.pnnl.gov/optimizationcontrol/default.asp) at Pacific Northwest National laboratory located in Richland WA.
+I am a post-doctoral researcher in the [Optimization and Control Group](https://eib.pnnl.gov/optimizationcontrol/default.asp) at Pacific Northwest National laboratory located in Richland WA.
 My current research interests fall in the intersection of model-based optimal control and machine learning with applications in the energy sector, building control in particular.
 
 I have a PhD in Control Engineering from  [Slovak University of Technology in Bratislava](https://www.uiam.sk/index.php), Slovakia, advised by [Michal Kvasnica](https://www.uiam.sk/~kvasnica/).
