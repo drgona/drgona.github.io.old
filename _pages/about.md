@@ -18,4 +18,4 @@ Before joining PNNL I was a postdoc  at KU Leuven, Belgium, in the [Thermal Syst
 At KU Leuven I was working on the cloud-based implementation of model predictive control (MPC) in a real-world  office building in Belgium. At PNNL I work with [Draguna Vrabie](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900) on tighter integration of deep learning methods with MPC and control theory.
 My publications are available  on [Google Scholar](https://scholar.google.com/citations?user=A-EA2KsAAAAJ&hl=en&oi=ao) or [ResearchGate](https://www.researchgate.net/profile/Jan_Drgona) and my
 open source repositories can be found on my [Github](https://github.com/drgona) and [Bitbucket](https://bitbucket.org/%7B96405cec-dcb4-4f6f-8df3-45f6cf31b0f6%7D/) profiles.
-In my free time I do meditation and [painting](https://pin.it/lyfefrndqcfmgh).
+In my free time I do meditation and [painting](https://sk.pinterest.com/jandrgona3/jans-paintings/).
