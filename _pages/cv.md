@@ -12,12 +12,17 @@ redirect_from:
 
 Professional experience
 ======
+* Data Scientist
+  * Physics and Computational Sciences Division, Pacific Northwest National Laboratory, Richland, WA, USA
+  * Topic: Constrained deep learning, data-driven optimal control
+  * April 2020 - ongoing
+
 * Postdoctoral Researcher
   * Optimization and Control Group, Pacific Northwest National laboratory, Richland, WA, USA
   * Topic: Deep Learning-based Model Predictive Control
   * Projects: Adaptive Controls
   * Supervisor: [Draguna Vrabie](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2900)
-  * July 2019 - ongoing
+  * July 2019 - April 2020
 
 * Postdoctoral Researcher
   * Department of Mechanical Engineering,  KU Leuven, Belgium
@@ -40,8 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
