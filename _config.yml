@@ -228,23 +228,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: "/_portfolio"
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: false
+#  # _portfolio
+#  - scope:
+#      path: "/_portfolio"
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: false
+#      share: false
+#      comment: true
+#  # _talks
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: false
+#      share: false
 
 # Sass/SCSS
 sass:
