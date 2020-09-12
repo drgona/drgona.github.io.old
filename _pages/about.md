@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist in the Physics and Computational Sciences Division (PCSD) at Pacific Northwest National Laboratory, Richland, WA.
-My current research interests fall in the intersection of model-based optimal control, constrained optimization and machine learning.
+I am a data scientist in the Physics and Computational Sciences Division (PCSD) at Pacific Northwest National Laboratory, Richland, WA. 
+My current research interests fall in the intersection of model-based optimal control, constrained optimization, and machine learning.
 
 I have a PhD in Control Engineering from  [Slovak University of Technology in Bratislava](https://www.uiam.sk/index.php), Slovakia, advised by [Michal Kvasnica](https://www.uiam.sk/~kvasnica/).
 My PhD thesis was on [Model Predictive Control with Applications in Building Thermal Comfort Control](https://www.researchgate.net/publication/323219837_Model_Predictive_Control_with_Applications_in_Building_Thermal_Comfort_Control).
