@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ján Drgoňa"
-  avatar           : "profile.png"
+  avatar           : "Drgona4WEB.jpg"
   bio              : "post-doctoral researcher at Pacific Northwest National Laboratory"
   location         : "Richland, WA, USA"
   employer         : "Pacific Northwest National Laboratory"
@@ -235,7 +235,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
@@ -244,7 +244,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
