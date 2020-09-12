@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
+[pdf CV](https://github.com/drgona/drgona.github.io/tree/master/files/Jan_Drgona_CV.pdf)
+
 Professional experience
 ======
 * Data Scientist
